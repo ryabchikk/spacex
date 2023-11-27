@@ -9,6 +9,14 @@
 .content {
     flex-grow: 0.7;
 }
+
+.point {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    position: absolute;
+}
+
 #listContainer{
     height: 300px;
     overflow: hidden;
